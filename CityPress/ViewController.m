@@ -71,7 +71,6 @@ const int HOW_MANY_BTN_ONE_ROW = 5;
  */
 - (void)initData {
   cityNameArray = @[
-    @"河北省",
     @"石家庄",
     @"承德",
     @"张家口",
@@ -85,7 +84,6 @@ const int HOW_MANY_BTN_ONE_ROW = 5;
     @"邯郸"
   ];
   cityIdArray = @[
-    @"1",
     @"311350",
     @"314050",
     @"313500",
@@ -100,7 +98,6 @@ const int HOW_MANY_BTN_ONE_ROW = 5;
   ];
 
   cityPicArray = @[
-    @"hebeisheng.png",
     @"shijiazhuang.png",
     @"chende.png",
     @"zhangjiakou.png",
